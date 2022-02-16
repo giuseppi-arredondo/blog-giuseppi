@@ -1,0 +1,9 @@
+body {
+  margin: 50px;
+}
+
+#titulo-milan {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 50px;
+  color: darkred;
+}
